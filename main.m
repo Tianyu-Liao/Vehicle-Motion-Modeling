@@ -1,6 +1,6 @@
 Parameters_MF_Tire_TNO
 Parameters_Chassis
 Parameters_Initialization
-open Vehicle_Motion_Model
+open Vehicle_Motion_Model_R2017b
 record
-sim Vehicle_Motion_Model
+sim Vehicle_Motion_Model_R2017b
